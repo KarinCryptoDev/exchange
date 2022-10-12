@@ -1,10 +1,10 @@
 # exchange
 거래소 개발 분석
 
-</br> 1)https://blockfi.com/ 블록파이 / https://www.pulsehyip.com/ 
+</br> 1)https://blockfi.com/ 블록파이 
 </br> 2) https://ftx.com/ > ftx https://docs.ftx.com/#rest-api </br> 
 https://clearpool.finance/ > 클리어풀
-</br> 3) > 바이낸스
+</br> 3) > 바이낸스 / https://app.1inch.io/#/1/earn/strategies> 일인치
 </br> 4) https://compound.finance/ > compound
 </br> 5)https://www.ribbon.finance(리본파이낸스) /https://lend.ribbon.finance(랜딩)/ https://lend.ribbon.finance/app(앱)
 </br> 리본 파이낸스 https://www.ribbon.finance/ > TS/ RSA암호화/ This page is secure (valid HTTPS).(페이지 보안이 안전한편/ Bootstrab+ajax+jquery)
