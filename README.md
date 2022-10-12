@@ -1,6 +1,5 @@
 # exchange
 거래소 개발 분석
-
 </br> 1)https://blockfi.com/ 블록파이 
 </br> 2) https://ftx.com/ > ftx https://docs.ftx.com/#rest-api </br> 
 https://clearpool.finance/ > 클리어풀
@@ -11,6 +10,9 @@ https://clearpool.finance/ > 클리어풀
 </br> 6) https://www.paybito.com/algorithmic-trading-for-sell-side/ > paybito.  (validation.js /chart.js / chatboat.js/ )
 </br> 7) https://githubuniverse.com/ > 깃허브 컨퍼런스 사이트인데 블록체인이 좋아하는 디자인인듯. 이쁨. (ts타입스크립트 이용)
 </br> 8) 폴리곤 기반 api 제공> https://polygon.io/docs/stocks/ws_stocks_am
+
+#바이퍼(파이썬) 클라우드 펀딩/투표 
+https://vyper.readthedocs.io/en/stable/vyper-by-example.html
 
 # JS
 https://polygon.io/docs/options/get_v1_indicators_macd__optionsticker 웹소켓 /rest.api </br>
