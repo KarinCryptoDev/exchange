@@ -1,7 +1,7 @@
 # exchange
 거래소 개발 분석
 
-</br> 1)https://blockfi.com/ 블록파이 
+</br> 1)https://blockfi.com/ 블록파이 / https://www.pulsehyip.com/ 
 </br> 2) https://ftx.com/ > ftx https://docs.ftx.com/#rest-api </br> 
 https://clearpool.finance/ > 클리어풀
 </br> 3) > 바이낸스
