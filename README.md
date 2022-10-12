@@ -12,8 +12,9 @@ https://blockfi.com/ 블록파이
 </br>5) 폴리곤 기반 api 제공> https://polygon.io/docs/stocks/ws_stocks_am
 
 # JS
-https://polygon.io/docs/options/get_v1_indicators_macd__optionsticker 웹소켓 /rest.api
-https://github.com/gyoogle/reactStudy
+https://polygon.io/docs/options/get_v1_indicators_macd__optionsticker 웹소켓 /rest.api </br>
+https://github.com/gyoogle/reactStudy </br>
+https://github.com/gyoogle/reactStudy/tree/master/1week
 
 # 웹개발자 도구 설명
 </br>
